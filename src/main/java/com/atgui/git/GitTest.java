@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("hello git1");
         System.out.println("master git2");
         System.out.println("hot-fix git2");
-        System.out.println("yuancheng推送 github git2");
+        System.out.println("自建分支远程推送");
     }
 }
