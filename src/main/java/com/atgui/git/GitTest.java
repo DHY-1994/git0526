@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("master git2");
         System.out.println("hot-fix git2");
         System.out.println("自建分支远程推送");
+        System.out.println("自建分支远程zaici推送");
     }
 }
